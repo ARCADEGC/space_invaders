@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/MyNotebook/Documents/Unreal Projects/SpaceInvaders/Content/Maps/MAP_2D.umap",
+				"C:/Users/MyNotebook/Documents/Unreal Projects/SpaceInvaders/Content/PaperAssets/Environment/background.uasset",
+				"C:/Users/MyNotebook/Documents/Unreal Projects/SpaceInvaders/Content/PaperAssets/Environment/background_TileMap.uasset",
+				"C:/Users/MyNotebook/Documents/Unreal Projects/SpaceInvaders/Content/PaperAssets/Character/Sprites/Character.uasset",
+				"C:/Users/MyNotebook/Documents/Unreal Projects/SpaceInvaders/Content/PaperAssets/Character/Sprites/Character_Sprite_0.uasset",
+				"C:/Users/MyNotebook/Documents/Unreal Projects/SpaceInvaders/Content/PaperAssets/Character/Sprites/enemy.uasset",
+				"C:/Users/MyNotebook/Documents/Unreal Projects/SpaceInvaders/Content/PaperAssets/Character/Flipbooks/FB_PlayerIdle.uasset",
+				"C:/Users/MyNotebook/Documents/Unreal Projects/SpaceInvaders/Content/PaperAssets/Environment/background_TileSet.uasset",
+				"C:/Users/MyNotebook/Documents/Unreal Projects/SpaceInvaders/Content/Blueprints/BP_Player.uasset",
+				"C:/Users/MyNotebook/Documents/Unreal Projects/SpaceInvaders/Content/Blueprints/GM_Platformer.uasset",
+				"C:/Users/MyNotebook/Documents/Unreal Projects/SpaceInvaders/Content/Input/IMC_Platformer.uasset",
+				"C:/Users/MyNotebook/Documents/Unreal Projects/SpaceInvaders/Content/Input/Actions/IA_Move.uasset",
+				"C:/Users/MyNotebook/Documents/Unreal Projects/SpaceInvaders/Content/PaperAssets/Environment/wall.uasset",
+				"C:/Users/MyNotebook/Documents/Unreal Projects/SpaceInvaders/Content/PaperAssets/Environment/wall_TileSet.uasset",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset",
+				"C:/Users/MyNotebook/Documents/Unreal Projects/SpaceInvaders/Content/Input/Actions/IA_Shoot.uasset",
+				"C:/Users/MyNotebook/Documents/Unreal Projects/SpaceInvaders/Content/ObjectPool/A_object.uasset",
+				"C:/Users/MyNotebook/Documents/Unreal Projects/SpaceInvaders/Content/ObjectPool/AC_ObjectPool.uasset",
+				"C:/Users/MyNotebook/Documents/Unreal Projects/SpaceInvaders/Content/PaperAssets/Character/Character.uasset",
+				"C:/Users/MyNotebook/Documents/Unreal Projects/SpaceInvaders/Content/PaperAssets/Character/enemy.uasset",
+				"C:/Users/MyNotebook/Documents/Unreal Projects/SpaceInvaders/Content/PaperAssets/Character/background.uasset"
+			]
+		}
+	]
+}
